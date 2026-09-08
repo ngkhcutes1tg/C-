@@ -1,0 +1,12 @@
+# File biên dịch & thực thi của C++
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Thư mục build / rác của IDE (VS Code, CLion,...)
+.vscode/
+.idea/
+bin/
+build/
